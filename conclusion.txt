@@ -1,0 +1,5 @@
+Esta es la conclusión, comunmente conocido como "post-mortem", del proyecto presentado para  la clase de "Conceptos fundamentales de programación" en el Politecnico Grancolombiano.
+
+Lo que se aprendió durante este proyecto fue el manejo y organización general de Java, experiencia que puede ser beneficiosa tanto para el desarrollo de más proyectos en este mismo lenguaje, como la posibilidad de tener bases firmes para aprender otro lenguaje de programación.
+
+La mayor dificultad que se presentó en el proyecto fue el realizar un trabajo competente que cumpla con lo estipulado por el docente, pero a su vez mantener la "sencillez" de este mismo, para que se mantenga en el margen de los "fundamentos" de la programación.
